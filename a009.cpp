@@ -1,5 +1,5 @@
 /*
-author: wogong(wogong38@gmail.com)
+author: wogong(i@wogong.net)
 create: 2014-12-06
 update: 2014-12-06
 note: k=7
